@@ -33,12 +33,12 @@ For user-related operations (GET, POST, PUT, DELETE), an **accessToken** is requ
 - **cypress.config.js**: Cypress configuration file.
 - **package.json**: Project dependencies and scripts.
 
-## How to Run
+# How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/obaidsajjad-SQA-Engineer/Cypress-API-Automation.git
 
-# Run Cypress Tests
+## Run Cypress Tests
 You can run the Cypress tests using one of the following commands:
 
 ## To open the Cypress test runner: 
